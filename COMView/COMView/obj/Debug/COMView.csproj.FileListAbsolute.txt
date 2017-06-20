@@ -1,0 +1,9 @@
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\bin\Debug\COMView.exe.config
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\bin\Debug\COMView.exe
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\bin\Debug\COMView.pdb
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\obj\Debug\COMView.csprojResolveAssemblyReference.cache
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\obj\Debug\COMView.Properties.Resources.resources
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\obj\Debug\COMView.csproj.GenerateResource.Cache
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\obj\Debug\COMView.exe
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\obj\Debug\COMView.pdb
+D:\all-my-work-here\Client\RnD\COMPort Programming\ForGithub\COMView\COMView\obj\Debug\COMView.MainForm.resources
